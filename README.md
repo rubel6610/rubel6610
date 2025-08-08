@@ -1,9 +1,6 @@
 <!-- Banner Image -->
 <img src="https://i.ibb.co/yBxyTL58/Black-and-White-Modern-Business-Linked-In-Banner.png" alt="Blue-Gradient-Modern-Linked-In-Banner" border="0">
 
-<!-- Name and Designation -->
-<h1 align="center">Hi 👋, I'm Md Rubel Hosen</h1>
-<h3 align="center">MERN Stack Web Developer | React Enthusiast | Firebase + MongoDB Expert</h3>
 
 <!-- About Me -->
 ## 🧑‍💻 About Me
