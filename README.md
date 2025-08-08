@@ -1,5 +1,7 @@
 <!-- Banner Image -->
-<img src="https://your-banner-image-link.com/banner.png" alt="Banner" width="100%" />
+<p align="center">
+  <img src="https://i.ibb.co/5R8bRXP/mern-banner.png" alt="MERN Stack Developer Banner" width="100%" />
+</p>
 
 <!-- Name and Designation -->
 <h1 align="center">Hi 👋, I'm Md Rubel Hosen</h1>
