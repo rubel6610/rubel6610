@@ -45,17 +45,12 @@ I enjoy solving real-world problems through code and always eager to learn and g
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="Streak" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubel6610&show_icons=true&locale=en&layout=compact" alt="rubel6610" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="Stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubel6610&show_icons=true&locale=en" alt="rubel6610" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" alt="Top Langs" />
-</p>
+
+<p><img align="center" src="https://git-hub-streak-stats.vercel.app?user=rubel6610" alt="rubel6610" /></p>
 
 <!-- Footer -->
 <p align="center">🚀 Let’s build something amazing together!</p>
