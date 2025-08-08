@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/5R8bRXP/mern-banner.png" alt="MERN Stack Developer Banner" width="100%" />
+  <img src="[https://i.ibb.co/5R8bRXP/mern-banner.png](https://www.canva.com/design/DAGveEOpWwo/-oy11SB9MPGEyEuNrYN8Hg/edit?utm_content=DAGveEOpWwo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="MERN Stack Developer Banner" width="100%" />
 </p>
 
 <!-- Name and Designation -->
