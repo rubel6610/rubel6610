@@ -1,19 +1,64 @@
-<h1 align="center">Hi 👋, I'm MD RUBEL HOSEN</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<!-- Banner Image -->
+<img src="https://your-banner-image-link.com/banner.png" alt="Banner" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubel6610&label=Profile%20views&color=0e75b6&style=flat" alt="rubel6610" /> </p>
+<!-- Name and Designation -->
+<h1 align="center">Hi 👋, I'm Md Rubel Hosen</h1>
+<h3 align="center">MERN Stack Web Developer | React Enthusiast | Firebase + MongoDB Expert</h3>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/rubelhosen1310](www.linkedin.com/in/rubelhosen1310)
+<!-- About Me -->
+## 🧑‍💻 About Me
 
-- 📫 How to reach me **rubelhosen1310@gmail.com**
+I'm a passionate web developer with a strong grip on the MERN Stack. I love crafting responsive and user-friendly web applications.  
+Currently focused on building full-stack applications and constantly exploring new web technologies.  
+I enjoy solving real-world problems through code and always eager to learn and grow.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rubelhosen1310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rubelhosen1310/" height="30" width="40" /></a>
-<a href="https://fb.com/www.facebook.com/rubelhossenshine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/rubelhossenshine" height="30" width="40" /></a>
+<!-- Current Activities -->
+## 🚀 Currently
+
+- 🔍 Exploring **Next.js** for server-side rendering and SEO
+- 🌍 Working on a **Tourism Website** project using React & Tailwind
+- 📘 Learning more about **React Query**, **Redux Toolkit**, and **Stripe Integration**
+- 🧠 Preparing for **Frontend Developer** job interviews
+
+<!-- Skills Section -->
+## 🛠️ Skills
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,react-router,firebase,tailwind,bootstrap,nextjs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🔧 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubel6610&show_icons=true&locale=en&layout=compact" alt="rubel6610" /></p>
+### 🛠️ Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" />
+</p>
+
+<!-- Social Links -->
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubelhosen13)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubel6610)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rubelhosen1310@gmail.com)
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" alt="Top Langs" />
+</p>
+
+<!-- Footer -->
+<p align="center">🚀 Let’s build something amazing together!</p>
