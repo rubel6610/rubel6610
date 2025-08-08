@@ -1,7 +1,5 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="[https://i.ibb.co/5R8bRXP/mern-banner.png](https://www.canva.com/design/DAGveEOpWwo/-oy11SB9MPGEyEuNrYN8Hg/edit?utm_content=DAGveEOpWwo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="MERN Stack Developer Banner" width="100%" />
-</p>
+<img src="https://i.ibb.co/hRTVd0bN/Blue-Gradient-Modern-Linked-In-Banner.png" alt="Blue-Gradient-Modern-Linked-In-Banner" border="0">
 
 <!-- Name and Designation -->
 <h1 align="center">Hi 👋, I'm Md Rubel Hosen</h1>
