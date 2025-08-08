@@ -25,7 +25,7 @@ I enjoy solving real-world problems through code and always eager to learn and g
 
 ### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,react-router,firebase,tailwind,bootstrap,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,tailwind,bootstrap,nextjs" />
 </p>
 
 ### 🔧 Backend & Database
@@ -43,7 +43,7 @@ I enjoy solving real-world problems through code and always eager to learn and g
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubelhosen13)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubel6610)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rubelhosen1310@gmail.com)
+📧 Email: [rubelhosen1310@gmail.com](rubelhosen1310@gmail.com)
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
