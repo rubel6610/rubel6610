@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/dsYmQdDK/Black-and-White-Modern-Business-Linked-In-Banner-1.png" alt="Blue-Gradient-Modern-Linked-In-Banner" border="0">
+<img src="https://i.ibb.co/ds7Pr883/Beige-Minimalist-Business-Linked-In-Article-Cover-Image.png" alt="banner" border="0">
 
 
 <!-- About Me -->
