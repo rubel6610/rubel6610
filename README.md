@@ -1,24 +1,22 @@
-<!-- Banner Image -->
-<img src="https://i.ibb.co/ds7Pr883/Beige-Minimalist-Business-Linked-In-Article-Cover-Image.png" alt="banner" border="0">
-
 
 <!-- About Me -->
 ## 🧑‍💻 About Me
 
-I'm a passionate web developer with a strong grip on the MERN Stack. I love crafting responsive and user-friendly web applications.  
-Currently focused on building full-stack applications and constantly exploring new web technologies.  
-I enjoy solving real-world problems through code and always eager to learn and grow.
+I'm a passionate **MERN Stack Developer** who loves building responsive, efficient, and user-friendly web applications.  
+Currently focused on developing full-stack projects, exploring modern technologies, and improving real-world problem-solving through clean code.
 
-<!-- Current Activities -->
-## 🚀 Currently
+---
 
-- 🔍 Exploring **Next.js** for server-side rendering and SEO
-- 🌍 Working on a **Tourism Website** project using React & Tailwind
-- 📘 Learning more about **React Query**, **Redux Toolkit**, and **Stripe Integration**
-- 🧠 Preparing for **Frontend Developer** job interviews
+## 🚀 Currently Working On
 
-<!-- Skills Section -->
-## 🛠️ Skills
+- Exploring **Next.js** for SSR, routing & SEO
+- Building a **Tourism Website** with React + Tailwind
+- Learning **React Query**, **Redux Toolkit**, **Stripe Integration**
+- Preparing for **Frontend Developer** job interviews
+
+---
+
+## 🛠️ Tech Stack & Skills
 
 ### 💻 Frontend
 <p>
@@ -35,22 +33,30 @@ I enjoy solving real-world problems through code and always eager to learn and g
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,figma" />
 </p>
 
-<!-- Social Links -->
+---
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubelhosen13)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubel6610)  
-📧 Email: [rubelhosen1310@gmail.com](rubelhosen1310@gmail.com)
+📧 **Email:** [rubelhosen1310@gmail.com](mailto:rubelhosen1310@gmail.com)
 
-<!-- GitHub Stats -->
+---
+
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubel6610&show_icons=true&locale=en&layout=compact" alt="rubel6610" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubel6610&show_icons=true&theme=default&layout=compact" height="150px" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubel6610&show_icons=true&locale=en" alt="rubel6610" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubel6610&show_icons=true&theme=default" height="150px" />
+</p>
 
+<p align="center">
+  <img src="https://git-hub-streak-stats.vercel.app?user=rubel6610" height="180px" />
+</p>
 
-<p><img align="center" src="https://git-hub-streak-stats.vercel.app?user=rubel6610" alt="rubel6610" /></p>
+---
 
-<!-- Footer -->
-<p align="center">🚀 Let’s build something amazing together!</p>
+<p align="center">✨ Let’s build something amazing together! ✨</p>
