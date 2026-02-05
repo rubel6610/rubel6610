@@ -1,4 +1,4 @@
-<a href="https://ibb.co.com/kVb00vqG"><img src="https://i.ibb.co.com/WN8FFjBH/Blue-Modern-Professional-Digital-Marketing-Background-Linked-In-Banner.png" alt="Blue Modern Professional Digital Marketing Background Linked In Banner" border="0"></a>
+<a href="https://ibb.co.com/wF9kdNGK"><img src="https://i.ibb.co.com/cSGBycfN/Blue-Modern-Professional-Digital-Marketing-Background-Linked-In-Banner-1.png" alt="Blue Modern Professional Digital Marketing Background Linked In Banner (1)" border="0"></a>
 <!-- About Me -->
 ## 🧑‍💻 About Me
 
