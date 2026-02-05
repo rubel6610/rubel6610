@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQErx6ZrTWTBfA/profile-displaybackgroundimage-shrink_350_1400/B4EZregl7VIUAY-/0/1764669678886?e=1766016000&v=beta&t=l9jgVm9-glZNaandPWV7AAIDx_jQfPMDntp3ikF38Tg" alt="banner imag"/>
+<a href="https://ibb.co.com/kVb00vqG"><img src="https://i.ibb.co.com/WN8FFjBH/Blue-Modern-Professional-Digital-Marketing-Background-Linked-In-Banner.png" alt="Blue Modern Professional Digital Marketing Background Linked In Banner" border="0"></a>
 <!-- About Me -->
 ## 🧑‍💻 About Me
 
