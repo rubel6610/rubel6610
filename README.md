@@ -2,7 +2,7 @@
 <!-- About Me -->
 ## 🧑‍💻 About Me
 
-I'm a passionate **MERN Stack Developer** who loves building responsive, efficient, and user-friendly web applications.  
+I'm a passionate **Full Stack Developer** who loves building responsive, efficient, and user-friendly web applications.  
 Currently focused on developing full-stack projects, exploring modern technologies, and improving real-world problem-solving through clean code.
 
 ---
